@@ -76,14 +76,6 @@ express-session
   
 🔹 Other Libraries (from package.json)
 
-```json
-"dependencies": {
-  "express": "^4.17.1",
-  "mongoose": "^5.10.9",
-  "cors": "^2.8.5",
-  "jsonwebtoken": "^8.5.1",
-  "dotenv": "^8.2.0"
-}
 
 👉 Explanation:
 
@@ -152,5 +144,5 @@ Handles:
 ✔ Database storage
 ✔ Task CRUD system
 ✔ Frontend + Backend integration
- 
+
 
