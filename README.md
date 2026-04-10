@@ -145,8 +145,6 @@ Handles:
 ✔ Database storage
 ✔ Task CRUD system
 ✔ Frontend + Backend integration
- 
- 
  Smart Task Manager Web App:
  
  <img width="511" height="406" alt="image" src="https://github.com/user-attachments/assets/e6f069cc-0bc8-4dec-a091-6e6e6d2e3649" />
@@ -160,3 +158,5 @@ SIGNUP FORM:
 <img width="405" height="379" alt="image" src="https://github.com/user-attachments/assets/1ddf2e14-4b23-4871-8357-2d089ef85061" />
 
 
+ 
+ 
