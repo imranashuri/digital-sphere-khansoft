@@ -61,8 +61,7 @@ express-session
 
 * Passport.js → login system
 * express-session → session handling
-
----
+  
 🔹 Other Libraries (from package.json)
 
 ```json
@@ -81,8 +80,6 @@ express-session
 * cors → allow frontend-backend connection
 * jsonwebtoken → authentication (JWT)
 * dotenv → environment variables
-
----
 
 3. What each file is doing**
 
