@@ -1,5 +1,3 @@
-
-
 1. Smart Task Manager Web Application
 It allows:
 * User Signup/Login
@@ -146,8 +144,7 @@ Handles:
 ✔ Task CRUD system
 ✔ Frontend + Backend integration
  
- 
- Smart Task Manager Web App:
+  Smart Task Manager Web App:
  
  <img width="511" height="406" alt="image" src="https://github.com/user-attachments/assets/e6f069cc-0bc8-4dec-a091-6e6e6d2e3649" />
  
